@@ -65,10 +65,18 @@ export default function Home() {
       </SectionIntro>
       <Container className="mt-8">
         <GridList>
-          <GridListItem title="Quality Products from Trusted Brands" />
-          <GridListItem title="Personalized Service" />
-          <GridListItem title="Fast, Reliable Delivery" />
-          <GridListItem title="Industry Expertise" />
+          <GridListItem title="Quality Products from Trusted Brands">
+            We partner with leading manufacturers known for durability and style.
+          </GridListItem>
+          <GridListItem title="Personalized Service">
+            Our team works closely with you to tailor solutions to your space.
+          </GridListItem>
+          <GridListItem title="Fast, Reliable Delivery">
+            We keep projects on schedule with prompt and secure shipping.
+          </GridListItem>
+          <GridListItem title="Industry Expertise">
+            Over 15 years of experience in hospitality furnishings guides every project.
+          </GridListItem>
         </GridList>
       </Container>
     </RootLayout>
